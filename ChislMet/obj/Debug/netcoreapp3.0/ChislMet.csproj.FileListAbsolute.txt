@@ -1,0 +1,13 @@
+C:\Users\misku\source\repos\ChislMet\ChislMet\bin\Debug\netcoreapp3.0\ChislMet.exe
+C:\Users\misku\source\repos\ChislMet\ChislMet\bin\Debug\netcoreapp3.0\ChislMet.deps.json
+C:\Users\misku\source\repos\ChislMet\ChislMet\bin\Debug\netcoreapp3.0\ChislMet.runtimeconfig.json
+C:\Users\misku\source\repos\ChislMet\ChislMet\bin\Debug\netcoreapp3.0\ChislMet.runtimeconfig.dev.json
+C:\Users\misku\source\repos\ChislMet\ChislMet\bin\Debug\netcoreapp3.0\ChislMet.dll
+C:\Users\misku\source\repos\ChislMet\ChislMet\bin\Debug\netcoreapp3.0\ChislMet.pdb
+C:\Users\misku\source\repos\ChislMet\ChislMet\obj\Debug\netcoreapp3.0\ChislMet.csprojAssemblyReference.cache
+C:\Users\misku\source\repos\ChislMet\ChislMet\obj\Debug\netcoreapp3.0\ChislMet.AssemblyInfoInputs.cache
+C:\Users\misku\source\repos\ChislMet\ChislMet\obj\Debug\netcoreapp3.0\ChislMet.AssemblyInfo.cs
+C:\Users\misku\source\repos\ChislMet\ChislMet\obj\Debug\netcoreapp3.0\ChislMet.dll
+C:\Users\misku\source\repos\ChislMet\ChislMet\obj\Debug\netcoreapp3.0\ChislMet.pdb
+C:\Users\misku\source\repos\ChislMet\ChislMet\obj\Debug\netcoreapp3.0\ChislMet.csproj.CoreCompileInputs.cache
+C:\Users\misku\source\repos\ChislMet\ChislMet\obj\Debug\netcoreapp3.0\ChislMet.genruntimeconfig.cache
